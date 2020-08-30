@@ -18,22 +18,22 @@
 		<dependency>
 			<groupId>de.uni_koeln.spinfo.maalr</groupId>
 			<artifactId>common</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
+			<version>${project.version}</version>
 		</dependency>
 		<dependency>
 			<groupId>de.uni_koeln.spinfo.maalr</groupId>
 			<artifactId>mongo</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
+			<version>${project.version}</version>
 		</dependency>
 		<dependency>
 			<groupId>de.uni_koeln.spinfo.maalr</groupId>
 			<artifactId>antlr</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
+			<version>${project.version}</version>
 		</dependency>
 		<dependency>
 			<groupId>de.uni_koeln.spinfo.maalr</groupId>
 			<artifactId>lucene</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
+			<version>${project.version}</version>
 		</dependency>
 		<dependency>
 			<groupId>javax.annotation</groupId>
